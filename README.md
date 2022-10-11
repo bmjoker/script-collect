@@ -18,3 +18,13 @@ github地址：https://github.com/p1g3/JSINFO-SCAN
 ```python3 jsinfo.py -d jd.com --keyword jd --save jd.api.txt --savedomain jd.domain.txt```
 
 
+（⭐）3. leakinfo_finder
+
+自动爬取JS文件中接口，拼接接口，加入常见springboot等目录，进行http请求（get+post），正则匹配响应结果，输出敏感信息
+
+github地址：https://github.com/Carrypan2022/leakinfo_finder
+
+![image](https://user-images.githubusercontent.com/37091232/195039111-39f66975-09e8-4555-ae54-90a43f6fcad2.png)
+
+希望增加：① url的响应状态码（js会有很多死链） ② 增加js中的正则匹配，以及提取接口的规则导出
+
