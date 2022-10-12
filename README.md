@@ -28,3 +28,10 @@ github地址：https://github.com/Carrypan2022/leakinfo_finder
 
 希望增加：① url的响应状态码（js会有很多死链） ② 增加js中的正则匹配，以及提取接口的规则导出
 
+4. py3zoomeye_subdomainapi
+
+zoomeye钟馗之眼子域名查询api脚本，版本v2.0
+
+github地址：https://github.com/moyuwa/zoomeye-subdomianapi
+
+![image](https://user-images.githubusercontent.com/37091232/195241489-818ec188-26b7-4c32-aa14-ba718af3f2d8.png)
