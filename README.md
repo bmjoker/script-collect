@@ -8,7 +8,7 @@ use eg:
 
 ```python3 .\scan.py https://www.ghxi.com/```
 
-![image](https://user-images.githubusercontent.com/37091232/194805640-4fe2a74a-84de-4384-878a-2fa4c8083fda.png)
+![image](https://user-images.githubusercontent.com/37091232/195241543-9e753462-1b0a-43da-9616-39cd93b48ef0.png)
 
 
 2. JSINFO-SCAN（JS信息搜集）
