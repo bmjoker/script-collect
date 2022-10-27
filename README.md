@@ -51,3 +51,13 @@ github地址：https://github.com/moyuwa/zoomeye-subdomianapi
 
 [+] 请输入加密的数据库密文=
 ```
+
+6. p2domain_v0.2.zip
+
+ip2domain - 批量查询ip对应域名、备案信息、百度权重
+
+github地址：https://github.com/Sma11New/ip2domain
+
+![image](https://user-images.githubusercontent.com/37091232/198302360-7ed6f52e-9a3a-42ae-8d26-be677f7e4221.png)
+
+
