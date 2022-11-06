@@ -60,4 +60,48 @@ github地址：https://github.com/Sma11New/ip2domain
 
 ![image](https://user-images.githubusercontent.com/37091232/198302360-7ed6f52e-9a3a-42ae-8d26-be677f7e4221.png)
 
+7. sigthief.py
+
+EXE签名窃取，可以给一个没有签名的exe添加一个签名，能够略微提升一些免杀效果
+
+Usage: sigthief.py [options]
+
+```
+Options:
+  -h, --help            show this help message and exit（查看帮助）
+  -i FILE, --file=FILE  input file（签名来源文件）
+  -r, --rip             rip signature off inputfile（从签名来源文件中删除签名）
+  -a, --add             add signautre to targetfile（）
+  -o OUTPUTFILE, --output=OUTPUTFILE
+                        output file
+  -s SIGFILE, --sig=SIGFILE
+                        binary signature from disk
+  -t TARGETFILE, --target=TARGETFILE
+                        file to append signature too
+  -c, --checksig        file to check if signed; does not verify signature
+  -T, --truncate        truncate signature (i.e. remove sig)
+```
+从exeA获取签名并添加给exeB 
+ ```
+ python sigthief.py -i 360Safe.exe -t mimikatz.exe -o 1.exe
+ ```
+ ![image](https://user-images.githubusercontent.com/37091232/200159217-2ddfa347-bb6f-441f-b7aa-d45efa45398f.png)
+
+保存签名
+```
+python sigthief.py -i 360Safe.exe -r
+```
+使用保存的签名
+```
+python sigthief.py -s 360Safe.exe_sig -t 2.exe
+```
+删除签名
+```
+python sigthief.py -i 2.exe -T
+```
+检查是否有签名（不检查有效性）
+```
+python sigthief.py -i 2.exe -c
+```
+
 
