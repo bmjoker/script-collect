@@ -104,4 +104,12 @@ python sigthief.py -i 2.exe -T
 python sigthief.py -i 2.exe -c
 ```
 
+8. Webpackfind
+
+Webpackfind-信息收集工具
+
+github地址：https://github.com/xz-zone/Webpackfind
+
+![image](https://user-images.githubusercontent.com/37091232/200601302-efd6a2f4-e27b-4532-b465-87a748eec183.png)
+
 
