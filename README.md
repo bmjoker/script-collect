@@ -113,3 +113,11 @@ github地址：https://github.com/xz-zone/Webpackfind
 ![image](https://user-images.githubusercontent.com/37091232/200601302-efd6a2f4-e27b-4532-b465-87a748eec183.png)
 
 
+9. cero
+
+通过证书反查域名
+
+github地址：https://github.com/glebarez/cero
+
+![image](https://user-images.githubusercontent.com/37091232/200862677-c3bbbe9d-478f-4e82-a716-9f476631044b.png)
+
