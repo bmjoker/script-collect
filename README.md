@@ -121,3 +121,11 @@ github地址：https://github.com/glebarez/cero
 
 ![image](https://user-images.githubusercontent.com/37091232/200862677-c3bbbe9d-478f-4e82-a716-9f476631044b.png)
 
+10. icp-domains
+
+输入一个域名，输出ICP备案所有关联域名
+
+github地址：https://github.com/1in9e/icp-domains
+
+![image](https://user-images.githubusercontent.com/37091232/206863873-c8850912-e911-4f42-8415-c90248de06ee.png)
+
