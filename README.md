@@ -129,3 +129,10 @@ github地址：https://github.com/1in9e/icp-domains
 
 ![image](https://user-images.githubusercontent.com/37091232/206863873-c8850912-e911-4f42-8415-c90248de06ee.png)
 
+11. Gofreeproxy
+
+动态代理工具
+
+github地址：https://github.com/ja9er/Gofreeproxy
+
+![image](https://user-images.githubusercontent.com/37091232/208245177-8f0586e5-7322-4cda-b90b-23b29428d3fb.png)
