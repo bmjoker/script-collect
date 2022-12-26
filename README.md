@@ -136,3 +136,12 @@ github地址：https://github.com/1in9e/icp-domains
 github地址：https://github.com/ja9er/Gofreeproxy
 
 ![image](https://user-images.githubusercontent.com/37091232/208245177-8f0586e5-7322-4cda-b90b-23b29428d3fb.png)
+
+12. scscanner
+
+URL列表文件中批量读取目标网站的状态码响应信息
+
+github地址：https://github.com/yuyudhn/scscanner
+
+![image](https://user-images.githubusercontent.com/37091232/209564383-520d3b25-4834-4ec1-90c5-2fc7819bbfdf.png)
+
